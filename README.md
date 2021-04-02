@@ -1,11 +1,8 @@
 # IST-707-Data-Analysis
-Problem framing:
-By scrutinizing the dataset and exploring all variables of electrical consumption in a very household within nearly four years, we have detected some trends, seasonal features and other noteworthy details that will allow us to predict future energy consumption demand with some degree of accuracy.
-We can predict for the active energy consumption for the next day on an hourly basis, next week on a daily basis, next month on a daily basis, next quarter and even next year on a monthly basis.
+## Problem framing:
+By scrutinizing the dataset and exploring all variables of electrical consumption in a very household within nearly four years, we have detected some trends, seasonal features and other noteworthy details that will allow us to predict future energy consumption demand with some degree of accuracy. We can predict for the active energy consumption for the next day on an hourly basis, next week on a daily basis, next month on a daily basis, next quarter and even next year on a monthly basis.
 
 Modeling Overview:
-Types of modeling:
-
 For time series forecasting, there are classic statistical methods such as:
 #### •	Autoregressive methods:
 The ARIMA (Auto Regressive Integrated Moving Average), this model could be extended to most time series data types. For one or more autoregressive (AR) terms (its own lagged values) and/or one or more moving average (MA) terms, ARIMA can be seen as a multiple            regression model.
